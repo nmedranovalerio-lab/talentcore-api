@@ -11,3 +11,10 @@ Casos de uso
   12 días el primer año, +2 por cada año adicional, con un límite de 20.
 - Solicitar días libres, validando que no se pida más que el saldo disponible.
 - Aprobar o rechazar solicitudes valida que únicamente  el jefe directo puede hacerlo.
+
+5 endpoints
+Método	Ruta	Nombre en Swagger
+POST	Crear Empleado
+GET		Obtener Saldo
+POST	Solicitar Vacaciones
+POST	Revisar Solicitud
